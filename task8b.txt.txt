@@ -1,0 +1,13 @@
+#include<iostream>
+using namespace std;
+main()
+{
+int a;
+float b;
+float c;
+cout<<"enter a four digit interger";
+cin>>a;
+b=a*7/100;
+b%a=c;
+cout<<"output is"<<c;
+}

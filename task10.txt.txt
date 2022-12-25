@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+main()
+{
+int a=1,sum;
+sum=a+1;
+sum=sum+1;
+sum=sum+1;
+sum=sum+1;
+cout<<"sum is'<<sum;
+}
+

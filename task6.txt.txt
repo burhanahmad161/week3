@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+main()
+{
+float size,cost,area,cost_per_pound,cost_of
+_fert;     
+cout<<"enter size of fertilizer bag:";
+cin>>size;    
+cout<<"enter cost of bag:";
+cin>>cost;
+cout<<"enter area:";
+cin>>area;
+cost_per_pound=size/cost;
+cost_of_fert=area/cost;
+cout<<"cost of fertilizer per pound"<<cost_per_pound;
+cout<<"cost of fertilizing area"<<cost_of_fert;
+}     
+                                                                                                                                         
